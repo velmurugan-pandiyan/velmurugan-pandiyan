@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @velmurugan-pandiyan
 - 👀 I’m interested in Coding and Exploring new Tech.
-- 🌱 I’m currently learning Java, GoLang, Server side scaling.
+- 🌱 I’m currently learning Java, GoLang, Server Side Tech.
 - 📫 How to reach me velmurugan.pandiyan@innovasolutions.com
 
 <!---
